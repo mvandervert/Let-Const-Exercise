@@ -1,0 +1,11 @@
+const PI = 3.14;
+if (true) {
+	const pie = 5.1;
+	console.log(pie);
+}
+
+
+1. Var can be reassigned and redeclared. Let can be reassigned, but not redeclared.
+2. Var can be reassigned and redeclared. Const can neither be reassigned or redeclared.
+3. Const means constant and retains its assigned and declared value. It is also block scope. Let can be reassigned.
+4. Hoisting means that when the javascript runs it recognizes the variable before it has been declared.  
